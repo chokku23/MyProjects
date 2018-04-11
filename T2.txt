@@ -1,3 +1,5 @@
 Hi Git
 Practice
 Checking local to remote push
+
+Checking the build jobs by auto schedule

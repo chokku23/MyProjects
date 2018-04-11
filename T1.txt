@@ -3,3 +3,5 @@ Hello
 Everyone... Good Morning all
 
 This is a practice session to import files into Jenkins
+
+Checking the build jobs by auto schedule
